@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{8CAAC676-78E1-4586-9686-C26A83DC643C}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="SupportToolbarSample/MainActivity.cs" Line="27" Column="10" />
+      <File FileName="SupportToolbarSample/DetailsActivity.cs" Line="44" Column="14" />
+      <File FileName="SupportToolbarSample/TeamManager.cs" Line="11" Column="29" />
+      <File FileName="SupportToolbarSample/TeamsAdapter.cs" Line="21" Column="13" />
+      <File FileName="SupportToolbarSample/ImageAssetManager.cs" Line="16" Column="1" />
+      <File FileName="SupportToolbarSample/Resources/values/Strings.xml" Line="4" Column="31" />
+      <File FileName="SupportToolbarSample/Resources/menu/actions.xml" Line="8" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SupportToolbarSample AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.AppCompat.NoActionBar" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
