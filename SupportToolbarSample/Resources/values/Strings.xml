@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Click Me!</string>
+    <string name="app_name">SupportToolbarSample</string>
+    <string name="alert">Alert</string>
+    <string name="details">Team details</string>
+</resources>
